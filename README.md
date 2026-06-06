@@ -1,13 +1,15 @@
-# Jaskaran Singh Minhas Portfolio
+# 👋 Hi, I'm Jaskaran Singh Minhas
 
-## Live Website
+🚀 Full Stack Developer | Cyber Security Specialist | Digital Marketing Executive
 
-https://jaskaran-folio-spark.lovable.app
+## 🌐 Portfolio
 
-## LinkedIn
+👉 **Visit My Portfolio**
+https://jass5216.github.io/jaskaran-portfolio/
 
-https://www.linkedin.com/in/jaskaran-singh-minhas-22505531a/
+## 🔗 Connect With Me
 
-## GitHub
-
-https://github.com/Jass5216
+- LinkedIn: https://www.linkedin.com/in/jaskaran-singh-minhas-22505531a/
+- GitHub: https://github.com/Jass5216
+- Email: rajputking00003@gmail.com
+- WhatsApp: https://wa.me/9115922675
